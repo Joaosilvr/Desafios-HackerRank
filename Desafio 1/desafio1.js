@@ -13,4 +13,4 @@ function plusMinus(arr) {
 
 console.log(plusMinus([4,2,10]));
 
-// Este código recebe um array, a função é retornar o raio desses numeros
+// Este código recebe um array, a função é retornar o raio desses numeros com 6 casas decimais
